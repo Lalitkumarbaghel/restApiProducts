@@ -1,0 +1,58 @@
+[
+        {
+            "name":"Iphone",
+            "price":154,
+            "company":"apple"
+        },
+        {
+            "name":"Iphone 10",
+            "price":10000,
+            "featured":true,
+            "company":"apple"
+        },
+        {
+            "name":"watch",
+            "price":15,
+            "featured":false,
+            "company":"apple"
+        },
+        {
+            "name":"readmi",
+            "price":154,
+            "featured":false,
+            "company":"mi"
+        },
+        {
+            "name":"readmi 15",
+            "price":154,
+            "featured":true,
+            "company":"mi"
+        },
+        {
+            "name":"vivo y75",
+            "price":200,
+            "company":"vivo"
+        },
+        {
+            "name":"vivo y20",
+            "price":500,
+            "company":"vivo"
+        },
+        {
+            "name":"vivo 10",
+            "price":154,
+            "featured":true,
+            "company":"vivo"
+        },
+        {
+            "name":"dell 10",
+            "price":154,
+            "featured":true,
+            "company":"dell"
+        },
+        {
+            "name":"dell 15",
+            "price":154,
+            "company":"dell"
+        }
+    ]
